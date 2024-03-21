@@ -1,4 +1,10 @@
-# Maverik
+# :computer: Maverik ![em desenvolvimento](https://img.shields.io/badge/Em%20Desenvolvimento-yellow)
+
+<p align="center">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+
 
 Um software para facilitar o gerenciamento eficiente de ativos emprestados aos colaboradores de uma empresa. Seja chip, smartphone, notebook ou qualquer outro recurso corporativo. Esta ferramenta oferece recursos abrangentes para acompanhar o histórico de cada objeto.
 
